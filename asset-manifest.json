@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testimonial-section/static/css/main.36c05380.css",
+    "main.js": "/testimonial-section/static/js/main.1f263062.js",
+    "static/js/787.d1dded0f.chunk.js": "/testimonial-section/static/js/787.d1dded0f.chunk.js",
+    "static/media/bg-pattern-quotation.svg": "/testimonial-section/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "index.html": "/testimonial-section/index.html",
+    "main.36c05380.css.map": "/testimonial-section/static/css/main.36c05380.css.map",
+    "main.1f263062.js.map": "/testimonial-section/static/js/main.1f263062.js.map",
+    "787.d1dded0f.chunk.js.map": "/testimonial-section/static/js/787.d1dded0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36c05380.css",
+    "static/js/main.1f263062.js"
+  ]
+}
